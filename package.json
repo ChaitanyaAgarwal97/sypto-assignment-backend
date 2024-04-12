@@ -1,0 +1,22 @@
+{
+  "name": "sypto-assignment-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaitanyaAgarwal97/sypto-assignment-backend.git"
+  },
+  "author": "Chaitanya Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChaitanyaAgarwal97/sypto-assignment-backend/issues"
+  },
+  "homepage": "https://github.com/ChaitanyaAgarwal97/sypto-assignment-backend#readme",
+  "description": "",
+  "dependencies": {
+    "fyers-api-v3": "^1.1.1"
+  }
+}
